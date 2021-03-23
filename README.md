@@ -14,3 +14,5 @@ To be able to use the calculator you have to know the rutine in calculating e-st
 
 The pre compiled exe has been tested on Windows 10 64bit.
 It is free to use/copy/share etc.
+
+Have fun, Bajotaz
